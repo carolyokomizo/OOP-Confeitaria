@@ -8,7 +8,6 @@ O tema selecionado foi Automatização de Sistema de uma Confeitaria, onde foi u
 <br />
 Sem dúvidas um dos maiores desafios enfrentados durante o semestre letivo, especialmente ao tempo para programar, testar a atividade e corrigir os erros durante o aplicação do código.<br />
 <br />
-Foi utilizado também os métodos contrutores para facilitar a automação do código.<br />
 <br />
 Resultado: Nota final 2.8 com a atividade valendo 3 pontos. <br />
 <br />
